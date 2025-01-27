@@ -1,1 +1,5 @@
 # Health-Data
+
+For my machine learning project, I explored disparities in healthcare outcomes to better understand how demographic factors influence access and quality of care. Using Python and libraries like Pandas and scikit-learn, I built and analyzed multiple machine learning models, including linear regression, random forests, and decision trees. These models helped me identify patterns and disparities in healthcare outcomes, such as how race, ethnicity, and socioeconomic status affect health status and access to resources.
+
+To ensure accuracy and fairness, I spent significant time on data cleaning, preprocessing, and feature engineering. I used techniques like cross-validation and hyperparameter tuning to optimize my models. The insights I gained have practical implications, such as guiding healthcare outreach programs and informing public health policies to address these disparities, particularly for underserved populations. This project reinforced the critical role of data-driven approaches in tackling health inequities.
